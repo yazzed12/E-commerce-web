@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yazzed E-Commerce Project
 
 ## Overview
@@ -49,3 +50,7 @@ npm start
 
 ## Note
 Ensure the backend API (Route E-Commerce API) is operational, or update the baseURL in `src/services/api.ts` if deployed on another domain.
+=======
+# E-commerce-web
+Yazzed Shop Mart is a production-ready, high-performance e-commerce storefront. Engineered with a focus on elite UI/UX design, search engine visibility, and robust data architecture, this platform provides a seamless end-to-end shopping journey.
+>>>>>>> 40328bb2de794ef9f99b08281210f971de2a1de2
