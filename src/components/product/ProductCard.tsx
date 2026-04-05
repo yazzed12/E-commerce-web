@@ -78,7 +78,7 @@ export const ProductCard = ({ product }: { product: Product }) => {
           </div>
         </div>
         <div className="p-4 flex-grow flex flex-col">
-          <span className="text-xs text-brand font-medium text-blue-600 mb-1">{product.category.name}</span>
+          <span className="text-xs font-medium text-blue-600 mb-1">{product.category.name}</span>
           <h3 className="text-sm font-semibold text-gray-900 line-clamp-2 mb-2">{product.title}</h3>
           
           <div className="mt-auto">
